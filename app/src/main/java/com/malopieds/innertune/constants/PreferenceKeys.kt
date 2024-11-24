@@ -15,7 +15,6 @@ val GridItemsSizeKey = stringPreferencesKey("gridItemSize")
 val SliderStyleKey = stringPreferencesKey("sliderStyle")
 
 enum class SliderStyle {
-    DEFAULT,
     SQUIGGLY,
 }
 
